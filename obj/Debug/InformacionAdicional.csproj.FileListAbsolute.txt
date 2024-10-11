@@ -1,0 +1,14 @@
+C:\Users\practicas\Desktop\Sergio\InformacionAdicional\bin\Debug\InformacionAdicional.dll
+C:\Users\practicas\Desktop\Sergio\InformacionAdicional\bin\Debug\InformacionAdicional.pdb
+C:\Users\practicas\Desktop\Sergio\InformacionAdicional\bin\Debug\Microsoft.mshtml.dll
+C:\Users\practicas\Desktop\Sergio\InformacionAdicional\obj\Debug\InformacionAdicional.csproj.AssemblyReference.cache
+C:\Users\practicas\Desktop\Sergio\InformacionAdicional\obj\Debug\Interop.a3ERPActiveX.dll
+C:\Users\practicas\Desktop\Sergio\InformacionAdicional\obj\Debug\InformacionAdicional.csproj.ResolveComReference.cache
+C:\Users\practicas\Desktop\Sergio\InformacionAdicional\obj\Debug\InformacionAdicional.csproj.CoreCompileInputs.cache
+C:\Users\practicas\Desktop\Sergio\InformacionAdicional\obj\Debug\Informac.98829F82.Up2Date
+C:\Users\practicas\Desktop\Sergio\InformacionAdicional\obj\Debug\InformacionAdicional.dll
+C:\Users\practicas\Desktop\Sergio\InformacionAdicional\obj\Debug\InformacionAdicional.pdb
+C:\Users\practicas\Desktop\Sergio\InformacionAdicional\obj\Debug\InformacionAdicional.csproj.GenerateResource.cache
+C:\Users\practicas\Desktop\Sergio\InformacionAdicional\obj\Debug\InformacionAdicional.Vistas.AdicionalDocumentoCompras.resources
+C:\Users\practicas\Desktop\Sergio\InformacionAdicional\obj\Debug\InformacionAdicional.Vistas.AdicionalDocumentoUnidadesServidas.resources
+C:\Users\practicas\Desktop\Sergio\InformacionAdicional\obj\Debug\InformacionAdicional.Vistas.AdicionalBotones.resources

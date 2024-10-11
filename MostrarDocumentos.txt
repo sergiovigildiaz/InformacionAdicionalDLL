@@ -1,0 +1,19 @@
+Mostrar/Ocultar AdicionalDocumentoCompras.cs
+FACTC=true
+FACTV=true
+ALBAC=true
+ALBAV=true
+PEDIC=true
+PEDIV=true
+OFERC=false
+OFERV=true
+
+Mostrar/Ocultar AdicionalBotones.cs
+FACTC=true
+FACTV=true
+ALBAC=true
+ALBAV=false
+PEDIC=true
+PEDIV=true
+OFERC=true
+OFERV=true
